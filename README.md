@@ -1,13 +1,8 @@
 # Welcome to my GitHub page!
-<table border="0">
- <tr>
-    ![wv-preview](https://user-images.githubusercontent.com/57784907/87011584-f7758100-c17c-11ea-953d-34b5a700c365.png)
- </tr>
- <tr>
-    <td>Some options:</td>
-    <td>Lorem ipsum ...</td>
- </tr>
-</table>
+
+![wv-preview](https://user-images.githubusercontent.com/57784907/87011584-f7758100-c17c-11ea-953d-34b5a700c365.png)
+
+This is a test word
 <!--
 **john-jaihyek-choi/john-jaihyek-choi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
