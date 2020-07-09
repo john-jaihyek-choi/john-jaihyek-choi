@@ -5,11 +5,11 @@
   <img align="left" src="https://user-images.githubusercontent.com/57784907/87011584-f7758100-c17c-11ea-953d-34b5a700c365.png">
  </div>
  <div>
-  <h3>I am actively seeking Entry-Level positions</h3>
+  <h2>I am actively seeking Entry-Level positions</h2>
   <h3>I can be reached via:</h3>
   <ul>
-   <li>Email: <a href="mailto:jaihyek.choi@gmail.com" target="_blank">jaihyek.choi@gmail.com</a></li>
-   <li>Phone: <a href="tel:1-562-708-7297">(562) 708-7297</a></li>
+   <li>Email: <a href="mailto:jaihyek.choi@gmail.com" target="_blank" style='text-decoration:none'>jaihyek.choi@gmail.com</a></li>
+   <li>Phone: <a href="tel:1-562-708-7297" style='text-decoration:none'>(562) 708-7297</a></li>
   </ul>
  </div>
 </div>
