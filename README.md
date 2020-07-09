@@ -17,7 +17,7 @@
   <h3>REACH ME AT:</h3>
   <ul>
    <li>Email: <a href="mailto:jaihyek.choi@gmail.com" target="_blank">jaihyek.choi@gmail.com</a></li>
-   <li>Phone: <a href="tel:1-562-708-7297">(562) 708-7297</a></li>
+   <li>Phone: <a href="tel:1-562-708-7297" class="text-decoration-none text-white"><i class="bx bxs-phone"></i>+1 (562) 708-7297</a></li>
   </ul>
  </div>
 </div>
