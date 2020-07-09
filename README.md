@@ -16,12 +16,18 @@
   </ul>
   <h3>REACH ME AT:</h3>
   <ul>
-   <li>Email: <a href="mailto:jaihyek.choi@gmail.com" target="_blank">jaihyek.choi@gmail.com</a></li>
+   <li>Email: <a href="mailto:jaihyek.choi@gmail.com">jaihyek.choi@gmail.com</a></li>
    <li>Phone: <a href="tel:1-562-708-7297">(562) 708-7297</a></li>
-   <li>LinkedIn: <a href="https://www.linkedin.com/feed/" target="_blank">John Choi</a></li>
-   <li>Portfolio: <a href="https://johnjhc.com" target="_blank">johnjhc.com</a></li>
+   <li>LinkedIn: <a href="https://www.linkedin.com/feed/">John Choi</a></li>
+   <li>Portfolio: <a href="https://johnjhc.com">johnjhc.com</a></li>
   </ul>
  </div>
+</div>
+
+<div>
+ <h3>
+  &#57903; Check out my projects down below!
+ </h3>
 </div>
 <!--
 **john-jaihyek-choi/john-jaihyek-choi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
