@@ -1,7 +1,12 @@
 # Welcome to my GitHub page!
 
 <div>
- <img align="left" width="100" height="100" src="https://user-images.githubusercontent.com/57784907/87011584-f7758100-c17c-11ea-953d-34b5a700c365.png">
+ <div>
+  <img align="left" src="https://user-images.githubusercontent.com/57784907/87011584-f7758100-c17c-11ea-953d-34b5a700c365.png">
+ </div>
+ <div>
+  <h1>Check out what I have been working on!</h1>
+ </div>
 </div>
 <!--
 **john-jaihyek-choi/john-jaihyek-choi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
