@@ -6,12 +6,12 @@
  </div>
  <div>
   <h3>My name is John and I am a passionate Software Engineer actively seeking entry-level opportunities.</h3>
-  <h3>SKILLS:</h3>
+  <h3>MAIN SKILLS:</h3>
   <ul>
    <li>HTML5</li>
    <li>CSS3</li>
    <li>JavaScript</li>
-   <li>Reac.js</li>
+   <li>React.js</li>
    <li>Node.js</li>
   </ul>
   <h3>REACH ME AT:</h3>
