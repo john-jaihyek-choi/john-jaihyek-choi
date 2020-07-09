@@ -25,9 +25,9 @@
 </div>
 
 <div>
- <h3>
-  &#57903; Check out my projects down below!
- </h3>
+ <h2>
+  👇🏻 Check out my projects down below!
+ </h2>
 </div>
 <!--
 **john-jaihyek-choi/john-jaihyek-choi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
