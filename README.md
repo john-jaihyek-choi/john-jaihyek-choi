@@ -5,7 +5,7 @@
   <img align="left" src="https://user-images.githubusercontent.com/57784907/87011584-f7758100-c17c-11ea-953d-34b5a700c365.png">
  </div>
  <div>
-  <h2>My name is John and I am a passionate Software Engineer actively seeking entry-level opportunities.</h2>
+  <h3>My name is John and I am a passionate Software Engineer actively seeking entry-level opportunities.</h3>
   <h3>SKILLS:</h3>
   <ul>
    <li>HTML5</li>
@@ -18,6 +18,8 @@
   <ul>
    <li>Email: <a href="mailto:jaihyek.choi@gmail.com" target="_blank">jaihyek.choi@gmail.com</a></li>
    <li>Phone: <a href="tel:1-562-708-7297">(562) 708-7297</a></li>
+   <li>LinkedIn: <a href="https://www.linkedin.com/feed/" target="_blank">John Choi</a></li>
+   <li>Portfolio: <a href="https://johnjhc.com" target="_blank">johnjhc.com</a></li>
   </ul>
  </div>
 </div>
