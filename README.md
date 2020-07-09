@@ -5,7 +5,12 @@
   <img align="left" src="https://user-images.githubusercontent.com/57784907/87011584-f7758100-c17c-11ea-953d-34b5a700c365.png">
  </div>
  <div>
-  <h1>Check out what I have been working on!</h1>
+  <h3>I am actively seeking Entry-Level positions</h3>
+  <h3>I can be reached via:</h3>
+  <ul>
+   <li>Email: <a href="mailto:jaihyek.choi@gmail.com" target="_blank">jaihyek.choi@gmail.com</a></li>
+   <li>Phone: <a href="tel:1-562-708-7297">(562) 708-7297</a></li>
+  </ul>
  </div>
 </div>
 <!--
