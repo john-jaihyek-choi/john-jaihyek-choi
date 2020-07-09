@@ -26,7 +26,7 @@
 
 <div>
  <h2>
-  👇🏻 Check out my projects down below!
+  👇🏻  Check out my projects down below! 👇🏻
  </h2>
 </div>
 <!--
