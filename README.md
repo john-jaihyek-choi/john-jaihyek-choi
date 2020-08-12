@@ -13,7 +13,7 @@
    <li>JavaScript</li>
    <li>React.js</li>
    <li>Node.js</li>
-   <li>AWS (Lambda, Connect, API Gateway, S3, EC2, Lex, CloudWatch, Etc<li>
+   <li>AWS (Lambda, Connect, API Gateway, S3, EC2, Lex, CloudWatch, Etc)</li>
   </ul>
   <h3>REACH ME AT:</h3>
   <ul>
