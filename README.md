@@ -27,8 +27,9 @@
 
 <div>
  <h2>
-  👇🏻  Check out my projects down below! 👇🏻
+  👇🏻  Here is what I am currently working on! 👇🏻
  </h2>
+ <a href="https://github.com/john-jaihyek-choi/divino_ristorante">Divino Restaurant Digital Transformation</a>
 </div>
 <!--
 **john-jaihyek-choi/john-jaihyek-choi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
