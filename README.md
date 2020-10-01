@@ -5,7 +5,7 @@
   <img align="left" src="https://user-images.githubusercontent.com/57784907/87011584-f7758100-c17c-11ea-953d-34b5a700c365.png">
  </div>
  <div>
-  <h3>My name is John and I am a passionate Software Engineer with love for coding and solving problems!</h3>
+  <h3>My name is John and I am a passionate Software Engineer with love for coding and problem solving!</h3>
   <h3>MAIN SKILLS:</h3>
   <ul>
    <li>HTML5</li>
