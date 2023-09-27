@@ -12,6 +12,7 @@
    <li>TypeScript</li>
    <li>React.js</li>
    <li>Node.js</li>
+   <li>Python</li></li>
    <li>AWS</li>
    <li>HTML5</li>
    <li>CSS3</li>
