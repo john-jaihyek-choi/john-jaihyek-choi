@@ -19,7 +19,7 @@
   </ul>
   <h3>REACH ME AT:</h3>
   <ul>
-   <li>Email: <a href="mailto:jaihyek.choi@gmail.com">jaihyek.choi@gmail.com</a></li>
+   <li>Email: <a href="mailto:jaihyek.choi@gmail.com">choi.john.jh@gmail.com</a></li>
    <li>Phone: <a href="tel:1-562-708-7297">(562) 708-7297</a></li>
    <li>LinkedIn: <a href="https://www.linkedin.com/in/johnjaihyekchoi/">John Choi</a></li>
    <li>Portfolio: <a href="https://johnjhc.com">johnjhc.com</a></li>
