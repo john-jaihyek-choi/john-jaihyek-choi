@@ -8,14 +8,14 @@
   <h3>Hi! My name is John!</h3>
   <h3>MAIN SKILLS:</h3>
   <ul>
+   <li>Python</li>
+   <li>Node.js</li>
+   <li>AWS Services</li>
    <li>JavaScript</li>
    <li>TypeScript</li>
-   <li>React.js</li>
-   <li>Node.js</li>
-   <li>Python</li></li>
-   <li>AWS</li>
    <li>HTML5</li>
    <li>CSS3</li>
+   <li>React.js</li>
   </ul>
   <h3>REACH ME AT:</h3>
   <ul>
